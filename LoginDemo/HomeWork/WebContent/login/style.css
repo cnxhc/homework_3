@@ -1,0 +1,24 @@
+*{padding:0;margin:0;}
+body{background:#ff6b6b;}
+#div_bg{
+	height:auto;
+	width:100%;
+	margin: 0 auto;
+}
+#div_context{
+	height:300px;
+	width:80%;
+	background:#ff8685;
+	border-radius:20px;
+	text-align:center;
+	margin:0 auto;
+	padding-top:100px;
+}
+.sub{
+	width:100px;
+	height:26px;
+	background:#ff6b6b;
+	border:none;
+	font-size:20px;
+	text-align: center;
+}
